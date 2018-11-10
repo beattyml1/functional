@@ -1,5 +1,6 @@
 {
   "name": "@beattyml1/functional",
+  "repository": "https://github.com/beattyml1/functional",
   "version": "1.0.0",
   "dependencies": {},
   "devDependencies": {
